@@ -16,14 +16,10 @@
 
 #### Photos:
 
+![Device2](photos/schematics/Screenshot_from_2021-02-07_01-56-52.png) <!-- .element height="10%" width="10%" -->
 
-![Device2](photos/schematics/Screenshot from 2021-02-07 01-56-52.png) <!-- .element height="10%" width="10%" -->
+![Device3](photos/schematics/Screenshot_from_2021-02-07_01-57-26.png) <!-- .element height="10%" width="10%" -->
 
-
-![Device3](photos/schematics/Screenshot from 2021-02-07 01-57-26.png) <!-- .element height="10%" width="10%" -->
-
-
-![Device4](photos/schematics/Screenshot from 2021-02-07 01-58-01.png) <!-- .element height="10%" width="10%" -->
-
+![Device4](photos/schematics/Screenshot_from_2021-02-07_01-58-01.png) <!-- .element height="10%" width="10%" -->
 
 ![Device5](photos/device/IMG_20210206_222038.jpg) <!-- .element height="10%" width="10%" -->
